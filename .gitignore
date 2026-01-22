@@ -1,3 +1,6 @@
 *.csv
 darts_logs
 logs
+lightning_logs
+optuna_test
+optuna

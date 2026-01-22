@@ -171,7 +171,7 @@ Effects   (-10h to   Differences  Variation  varying     (Hour, Day,
 
 ---
 
-## Your Professor's Question: Answered!
+## Your Question: Answered!
 
 **Their Belief**: "Sudden demand pattern changes are due to weather"
 
